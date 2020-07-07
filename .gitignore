@@ -1,0 +1,10 @@
+video/
+.env/
+.idea/
+catboost_info/
+tests/
+*/.ipynb_checkpoints/
+1/
+2/
+3/
+4/
